@@ -33,5 +33,32 @@
     <ClCompile Include="成员边的初始化与构造函数1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="构造函数中进行初始化的用途.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="复制构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_构造函数和new运算符.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_再谈默认构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_析构函数和delete运算符.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_默认析构函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_调用构造函数进行类型转换.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_浅层复制构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20150503_深层复制构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

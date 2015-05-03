@@ -78,11 +78,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="20150503_再谈默认构造函数.cpp" />
+    <ClCompile Include="20150503_构造函数和new运算符.cpp" />
+    <ClCompile Include="20150503_析构函数和delete运算符.cpp" />
+    <ClCompile Include="20150503_浅层复制构造函数.cpp" />
+    <ClCompile Include="20150503_深层复制构造函数.cpp" />
+    <ClCompile Include="20150503_调用构造函数进行类型转换.cpp" />
+    <ClCompile Include="20150503_默认析构函数.cpp" />
     <ClCompile Include="函数的缺省参数.cpp" />
+    <ClCompile Include="复制构造函数.cpp" />
     <ClCompile Include="成员函数的重载.cpp" />
     <ClCompile Include="成员变量的初始化.cpp" />
     <ClCompile Include="成员边的初始化与构造函数1.cpp" />
     <ClCompile Include="普通函数的重载.cpp" />
+    <ClCompile Include="构造函数中进行初始化的用途.cpp" />
     <ClCompile Include="重载构造函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

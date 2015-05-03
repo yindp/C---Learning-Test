@@ -1,14 +1,27 @@
-﻿Build started 2015/5/2 17:53:49.
+﻿Build started 2015/5/3 21:54:13.
      1>Project "E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\第十章——深入函数\第十章——深入函数.vcxproj" on node 2 (Build target(s)).
-     1>Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.lib" /MACHINE:X86 "Debug\函数的缺省参数.obj"
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "20150503_深层复制构造函数.cpp"
+         20150503_深层复制构造函数.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.lib" /MACHINE:X86 "Debug\20150503_再谈默认构造函数.obj"
+         "Debug\20150503_构造函数和new运算符.obj"
+         "Debug\20150503_析构函数和delete运算符.obj"
+         "Debug\20150503_浅层复制构造函数.obj"
+         "Debug\20150503_深层复制构造函数.obj"
+         "Debug\20150503_调用构造函数进行类型转换.obj"
+         "Debug\20150503_默认析构函数.obj"
+         "Debug\函数的缺省参数.obj"
+         "Debug\复制构造函数.obj"
          "Debug\成员函数的重载.obj"
          "Debug\成员变量的初始化.obj"
+         "Debug\成员边的初始化与构造函数1.obj"
          "Debug\普通函数的重载.obj"
+         "Debug\构造函数中进行初始化的用途.obj"
          "Debug\重载构造函数.obj"
          第十章——深入函数.vcxproj -> E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\Debug\第十章——深入函数.exe
      1>Done Building Project "E:\Users\YiN\Documents\GitHub\C---Learning-Test\第十章——深入函数\第十章——深入函数\第十章——深入函数.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.37
+Time Elapsed 00:00:01.24
