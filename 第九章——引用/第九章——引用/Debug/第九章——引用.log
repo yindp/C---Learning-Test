@@ -1,0 +1,19 @@
+﻿Build started 2015/5/2 15:05:11.
+     1>Project "E:\Users\YiN\Documents\GitHub\C---Learning-Test\第九章——引用\第九章——引用\第九章——引用.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "使用别名(引用)来传递对象.cpp"
+         使用别名(引用)来传递对象.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第九章——引用\Debug\第九章——引用.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第九章——引用\Debug\第九章——引用.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\YiN\Documents\GitHub\C---Learning-Test\第九章——引用\Debug\第九章——引用.lib" /MACHINE:X86 "Debug\使用const指针来传递对象.obj"
+         "Debug\使用别名(引用)来传递对象.obj"
+         "Debug\利用指针返回多值.obj"
+         "Debug\应用对象.obj"
+         "Debug\按值传递对象.obj"
+         "Debug\按址传递对象.obj"
+         "Debug\用引用来返回多值.obj"
+         第九章——引用.vcxproj -> E:\Users\YiN\Documents\GitHub\C---Learning-Test\第九章——引用\Debug\第九章——引用.exe
+     1>Done Building Project "E:\Users\YiN\Documents\GitHub\C---Learning-Test\第九章——引用\第九章——引用\第九章——引用.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.19

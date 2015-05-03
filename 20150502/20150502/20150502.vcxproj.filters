@@ -36,5 +36,26 @@
     <ClCompile Include="Pointer6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="指针的加减运算.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="指针的赋值运算.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="指针的相减运算符.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="指针的比较运算.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="常量指针.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="指向常量的指针.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="指向常量的常量指针.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

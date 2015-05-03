@@ -85,6 +85,13 @@
     <ClCompile Include="Pointer4.cpp" />
     <ClCompile Include="Pointer5.cpp" />
     <ClCompile Include="Pointer6.cpp" />
+    <ClCompile Include="常量指针.cpp" />
+    <ClCompile Include="指向常量的常量指针.cpp" />
+    <ClCompile Include="指向常量的指针.cpp" />
+    <ClCompile Include="指针的加减运算.cpp" />
+    <ClCompile Include="指针的比较运算.cpp" />
+    <ClCompile Include="指针的相减运算符.cpp" />
+    <ClCompile Include="指针的赋值运算.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
